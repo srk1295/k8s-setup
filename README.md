@@ -12,7 +12,7 @@ And we need to install vms for k8s nodes as 1 master and 2 worker use this terra
 
 
 # git cmds #
-git merge	Combine entire branches
-git rebase	Reapply commits linearly
-git cherry-pick	Apply specific commits only
-#
+git merge	Combine entire branches,
+git rebase	Reapply commits linearly,
+git cherry-pick	Apply specific commits only,
+
