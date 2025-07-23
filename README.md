@@ -1,7 +1,7 @@
 k8s master and worker node script have been scripted in IaC Terraform.
 And we need to install vms for k8s nodes as 1 master and 2 worker use this terraform script.
 ### Cmds ###
-#### terraform init 
+####### terraform init 
 terraform validate .
 terraform plan .
 terraform apply .
